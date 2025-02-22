@@ -3,6 +3,8 @@
 🚀 **GESTURE-X** is an advanced **hand-tracking AI** that turns your hands into a **weapon of control**! No mouse. No keyboard. Just **pure gestures.** Control web pages, execute actions, and interact with elements **without touching anything.**  
 
 **💀 No clicks. No taps. Just domination.**  
+- Dependecies used: npm install @tensorflow/tfjs @tensorflow-models/handpose react react-dom
+
 
 ## 🔥 Features
 
